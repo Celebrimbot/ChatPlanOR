@@ -1,0 +1,17 @@
+#mainsection {
+  width: 400px;
+}
+
+#participants {
+  visibility: visible;
+  
+}
+
+header {
+  width: 30%;
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact;
+  background-color: #000066;
+  color: #FFFFFF;
+}
